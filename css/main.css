@@ -1,0 +1,272 @@
+*{
+	font-family: Helvetica;
+}
+
+
+
+header{
+	text-align: center;
+	background-color: white;
+
+}
+.log{
+	width: 40%;
+
+}
+.menu{
+	margin: 5%;
+}
+.menu a{
+	text-decoration: none;
+	padding: 4%;
+	color:	#C0C0C0;
+	text-align: center;
+	
+
+}
+.menu a:hover{
+	background-color: black;
+	color:white;
+}
+body{
+	background-color: white;
+}
+
+.semilla{
+	height: 420px;
+	width: 100%;
+}
+.lorem{
+
+	background-color: #F2F2F2;
+	text-align: center;
+	padding: 10%;
+	margin: 0;
+}
+
+h3, p{
+	text-align: center;
+	color:#4D4D4D;
+
+}
+p{
+	padding-bottom:13%; 
+}
+
+.mi, .vi{
+	text-align: center;
+	display: block;
+	padding-left: 37%;
+    padding-top: 15%;
+    padding-bottom: 7%;
+    margin: 0;
+    color: #4D4D4D;
+}
+
+.fila .xx{
+	padding-right: 0;
+}
+.fila .col.6.xx{
+	padding-right: 0;
+}
+
+
+.metodo {
+	background: url("../img/fondo.jpg");
+	text-align: center;
+	background-size: cover;
+
+	
+	
+}
+
+.h3uno, .pdos, .met{
+	color:white;
+	padding-top: 10%;
+	font-size: 
+}
+
+.h3tres{
+	padding-top: 6%;
+}
+.ptres{
+	padding-top: 3%;
+	padding-left: 10%;
+	padding-right: 10%;
+}
+
+.agricultura{
+	padding-left: 33.3%;
+}
+
+.h3cuatro{
+	color:#5e8039;
+	padding: 5% 16%;
+}
+
+.tres{
+	background-color:#5E8039;
+	}
+.pro{
+	color:white;
+	padding:1% 6%;
+	
+}
+.ninas{
+ width: 80%;
+ padding-left: 10%;
+ padding-top: 5%;
+}
+
+.tren{
+	width: 80%;
+ 	padding-left: 10%;
+ 	padding-bottom: 10%;
+
+}
+ 
+.h4dos{
+ 	text-align: center;
+ 	color: #fff;
+ 	padding-right: 10%;
+ }
+ .h3seis{
+ 	color: #fff;
+ 	padding-right: 10%;
+ 	padding-top: 20%;
+ }
+
+ .fondo{
+ 	text-align: center;
+ 	color: #fff;
+ 	padding-right: 10%;
+ 	padding-top: 2%;
+ }
+
+ .equipo{
+ 	color:#5E8039;
+ 	padding-left: 5%;
+    padding-top: 7%;
+ }
+
+ .camila{
+ 	border-radius: 50%;
+ 	padding-top: 10%;
+ 	padding-bottom: 10%;
+ 	padding-left: 35%;
+ 	padding-right: 35%;
+ }
+
+.cargo{
+	text-align: center;
+}
+.pcinco{
+	padding:0% 10%;
+}
+
+.redes-sociales{
+	width: 5%;
+	margin-bottom: 10%;
+}
+.redes{
+	width: 5%;
+	margin-left: 40%;
+	margin-bottom: 10%;
+}
+a{
+	text-decoration: none;
+}
+
+.espacio{
+	background: url("../img/fondo2.jpg");
+	background-size: cover;
+
+}
+.espacio{
+	padding-top: 10%;
+}
+.espacio .bi{
+	width: 80%;
+
+
+}
+.bi{
+	padding-left: 10%;
+	padding-right: 0%;
+	margin-left: 4%;
+}
+.sli-uno{
+	position: absolute;
+	left: 5%;
+    margin-top: 6%
+}
+.sli-dos{
+	position: absolute;
+	right: 6%;
+	margin-top: 6%;
+
+}
+
+.espacio h2 {
+	text-align: left;
+	padding: 0 14%;
+} 
+.espacio h5{
+	text-align: left;
+	padding: 0 14%;
+}
+.pseis{
+	text-align: left;
+	margin-left: 14%;
+    margin-right: 14%;
+}
+
+.contacto{
+	background-color: #4D4D4D;
+	padding:5% 10%;
+}
+.tamano{
+	width: 100%;
+    padding-left: 72%;
+    padding-right: 8%;
+
+	
+
+}
+.links{
+	
+	padding-top: 30%;
+	padding-bottom: 35%;
+    padding-left: 20%;
+}
+.linkspro{
+	padding-top: 30%;
+	padding-bottom: 41%;
+    padding-left: 20%;
+}
+
+.negro{
+	border-bottom: 1px solid white;
+	border-right: 1px solid white;
+	border-left: 1px solid white;
+}
+.negro:hover{
+	background-color: gray;
+}
+
+.footers{
+	text-align: left;
+	padding-top: 15%;
+}
+.laboratoria{
+	color: #fac60e;
+}
+.foot{
+	text-align: right;
+	padding-top: 15%;
+	padding-bottom: 0%;
+}
+.numero{
+	color: gray;
+	padding: 0%;
+}
